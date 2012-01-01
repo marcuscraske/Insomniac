@@ -1,0 +1,11 @@
+<Controls>
+<UseKeyboardAsGamepad=1>
+</Controls>
+<Resolution>
+<Width=1024>
+<Fullscreen=0>
+<PostProcessing=None>
+<Height=768>
+<Ambient=1>
+<Effects=1>
+</Resolution>

@@ -1,0 +1,15 @@
+<Ship>
+<Texture=%GAMEMODE%\Ships\ClassU_A>
+<Class=Spacegame.Ship>
+<Module3=None>
+<Module6=None>
+<Module4=None>
+<Module5=None>
+<Module2=None>
+<MaxHealth=100>
+<Module1=LaserDroplet>
+<MaxSpeed=4>
+</Ship>
+<Player>
+<XP=0>
+</Player>

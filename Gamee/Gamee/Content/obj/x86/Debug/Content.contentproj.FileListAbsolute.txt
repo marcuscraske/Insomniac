@@ -1,0 +1,5 @@
+D:\Documents and Settings\Administrator.MAS-004\My Documents\Visual Studio 2008\Projects\Gamee\Gamee\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Gamee\Gamee\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Gamee\Gamee\Gamee\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\Content\obj\x86\Debug\ResolveAssemblyReference.cache

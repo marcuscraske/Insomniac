@@ -1,0 +1,61 @@
+<SmartAssemblyProject ProjectID="{517817b0-8ee1-41df-9482-738d5825f6e4}" Version="2.0">
+    <MainAssemblyFileName>.\Gamee.exe</MainAssemblyFileName>
+    <FriendlyName>Gamee</FriendlyName>
+    <CompanyName>FortexHotel</CompanyName>
+    <Configuration Name="Release">
+        <ApplicationName>Gamee</ApplicationName>
+        <Destination DestinationFileName=".\Insomniac-sa.exe" />
+        <Assemblies>
+            <Assembly AssemblyName="Gamee, Culture=neutral, PublicKeyToken=null">
+                <Merging>
+                    <ResourcesCompression Compress="0" />
+                    <MemberRefsProxy Proxy="1" />
+                    <Pruning Prune="0">
+                        <Exclusion />
+                    </Pruning>
+                    <Obfuscation Obfuscate="1">
+                        <Exclusion>
+                            <Token Table="Namespace">
+                                <Assembly>Gamee</Assembly>
+                                <Module>Gamee.exe</Module>
+                                <Namespace>Gamee</Namespace>
+                            </Token>
+                            <Token Table="Namespace">
+                                <Assembly>Gamee</Assembly>
+                                <Module>Gamee.exe</Module>
+                                <Namespace>Spacegame</Namespace>
+                            </Token>
+                            <Token Table="Namespace">
+                                <Assembly>Gamee</Assembly>
+                                <Module>Gamee.exe</Module>
+                                <Namespace>Spacegame.Module</Namespace>
+                            </Token>
+                            <Token Table="Namespace">
+                                <Assembly>Gamee</Assembly>
+                                <Module>Gamee.exe</Module>
+                                <Namespace>Spacegame.Pickup</Namespace>
+                            </Token>
+                            <Token Table="Namespace">
+                                <Assembly>Gamee</Assembly>
+                                <Module>Gamee.exe</Module>
+                                <Namespace>Core</Namespace>
+                            </Token>
+                        </Exclusion>
+                    </Obfuscation>
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
+                    <ResourcesPruning />
+                </Merging>
+            </Assembly>
+        </Assemblies>
+        <Options>
+            <Obfuscation FieldsNameMangling="3" NameMangling="3" />
+            <ExceptionReporting ReportExceptions="0" UseCustomTemplate="0" />
+            <StrongNameSigning Sign="0" />
+            <OtherProtections AddMetadataStream="1" SuppressIldasm="1" />
+            <StringsEncoding Compress="1" Encode="1" />
+            <OtherOptimizations ManageMemory="1" SealClasses="1" />
+            <Debugging CreatePDB="0" />
+            <Troubleshooting SelfDiagnostic="1" />
+        </Options>
+    </Configuration>
+</SmartAssemblyProject>

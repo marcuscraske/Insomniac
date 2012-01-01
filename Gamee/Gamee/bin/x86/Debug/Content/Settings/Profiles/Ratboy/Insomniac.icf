@@ -1,0 +1,15 @@
+<Ship>
+<MaxHealth=6100>
+<Texture=%GAMEMODE%\Ships\ClassY_A>
+<Class=Spacegame.Ship>
+<Module3=ASMDestroyer>
+<Module4=Hyperdrive>
+<Module5=NanoCM>
+<Module2=LaserDroplet>
+<Module6=X32Laser>
+<Module1=Nuke>
+<MaxSpeed=4>
+</Ship>
+<Player>
+<XP=118595724>
+</Player>

@@ -1,0 +1,11 @@
+Cannon=3000;
+Ship=500000;
+A.I Ship=15000;
+Bullet=1;
+Nuke=5000;
+PlasmaBurst=2;
+LaserDroplet=1;
+ASMDestroyer=5;
+Flak86=4;
+NanoCM=1;
+X32Laser=1;

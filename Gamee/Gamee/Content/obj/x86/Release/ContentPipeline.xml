@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>test1.PNG</Source>
+      <Name>test1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\test1.xnb</Output>
+      <Time>2010-03-12T01:53:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>missing_texture.png</Source>
+      <Name>missing_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\missing_texture.xnb</Output>
+      <Time>2010-03-13T01:57:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Button.spritefont</Source>
+      <Name>Button</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\Button.xnb</Output>
+      <Time>2010-04-05T19:40:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuButton.spritefont</Source>
+      <Name>MenuButton</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\MenuButton.xnb</Output>
+      <Time>2010-04-13T13:31:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>TopbarText.spritefont</Source>
+      <Name>TopbarText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\TopbarText.xnb</Output>
+      <Time>2010-04-12T03:23:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>UITextbox.spritefont</Source>
+      <Name>UITextbox</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\UITextbox.xnb</Output>
+      <Time>2010-04-12T09:07:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>UIButton.spritefont</Source>
+      <Name>UIButton</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\UIButton.xnb</Output>
+      <Time>2010-04-12T21:40:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>UILabel.spritefont</Source>
+      <Name>UILabel</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\UILabel.xnb</Output>
+      <Time>2010-04-13T00:49:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Header.spritefont</Source>
+      <Name>Header</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\Header.xnb</Output>
+      <Time>2010-04-13T04:23:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuName.spritefont</Source>
+      <Name>MenuName</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\MenuName.xnb</Output>
+      <Time>2010-04-13T10:21:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MapButton.spritefont</Source>
+      <Name>MapButton</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\MapButton.xnb</Output>
+      <Time>2010-04-13T13:31:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>UIScrollbox2.spritefont</Source>
+      <Name>UIScrollbox2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\UIScrollbox2.xnb</Output>
+      <Time>2010-04-15T20:20:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>UIMessageBox.spritefont</Source>
+      <Name>UIMessageBox</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\UIMessageBox.xnb</Output>
+      <Time>2010-04-15T22:16:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerUI.spritefont</Source>
+      <Name>PlayerUI</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\PlayerUI.xnb</Output>
+      <Time>2010-04-17T16:41:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Scoreboard_Mapfont.spritefont</Source>
+      <Name>Scoreboard_Mapfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\Scoreboard_Mapfont.xnb</Output>
+      <Time>2010-04-21T11:31:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Scoreboard_Font1.spritefont</Source>
+      <Name>Scoreboard_Font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\Scoreboard_Font1.xnb</Output>
+      <Time>2010-04-21T19:18:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Scoreboard_Font2.spritefont</Source>
+      <Name>Scoreboard_Font2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\Scoreboard_Font2.xnb</Output>
+      <Time>2010-04-21T19:18:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Scoreboard_Font3.spritefont</Source>
+      <Name>Scoreboard_Font3</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\Scoreboard_Font3.xnb</Output>
+      <Time>2010-04-21T20:39:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Achievements_font1.spritefont</Source>
+      <Name>Achievements_font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\Achievements_font1.xnb</Output>
+      <Time>2010-04-24T22:14:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Achievements_font2.spritefont</Source>
+      <Name>Achievements_font2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\Achievements_font2.xnb</Output>
+      <Time>2010-04-24T22:14:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Panel_Font1.spritefont</Source>
+      <Name>Panel_Font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\Panel_Font1.xnb</Output>
+      <Time>2010-05-23T04:25:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Garage_XP.spritefont</Source>
+      <Name>Garage_XP</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\Garage_XP.xnb</Output>
+      <Time>2010-05-24T02:28:04+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\Content\</RootDirectory>
+      <LoggerRootDirectory>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\</LoggerRootDirectory>
+      <IntermediateDirectory>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>W:\Users\Ratboy\Documents\Visual Studio 2008\Projects\Gamee\Gamee\Gamee\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>W:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>W:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>W:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>W:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>W:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>W:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-03-29T00:00:07.0537109+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
